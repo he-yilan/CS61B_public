@@ -1,6 +1,6 @@
 # CS61Bakery Debugging Demo 
 
-This is a very simple demo of how to use the IntelliJ debugger. 
+This is a very simple demo of how to use the IntelliJ debugger. The files are organized in the bug (buggy) and sol (solution) packages inside src. 
 
 ## Debugger Overview 
 * debug button and stop button
